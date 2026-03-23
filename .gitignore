@@ -3,3 +3,4 @@ install-go-tools.sh
 dist/
 *.sh.x
 *.x.c
+secmon
